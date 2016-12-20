@@ -1,0 +1,7 @@
+#Sat Dec 17 01:26:28 BRST 2016
+base.0=/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6642702c90d16c7d0273891ebb9e17599a233c0f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad1a4d6bb70f02aa7dbe11a8c3ee8bc20fa38f46/classes.dex
+base.1=/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad1a4d6bb70f02aa7dbe11a8c3ee8bc20fa38f46
+file.0=/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6642702c90d16c7d0273891ebb9e17599a233c0f/classes.dex

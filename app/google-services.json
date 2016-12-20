@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936371589505",
+    "project_id": "accsparksql"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936371589505:android:8d88fad9da2f464a",
+        "android_client_info": {
+          "package_name": "com.bhapps.accspark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936371589505-jqdhn9acrp9ecveffg1tmo6t9boea57c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhapps.accspark",
+            "certificate_hash": "A8D821DAA2A130B48FE76AA5EE12944F8FEDF5DF"
+          }
+        },
+        {
+          "client_id": "936371589505-cttr03e2l8kn9r20555r54hruv9a7e5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6vqkjpnbIQWqZlTYF2PNIpRn4Lp29uQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

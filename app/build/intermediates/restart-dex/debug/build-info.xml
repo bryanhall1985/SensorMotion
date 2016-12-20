@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="35507514293786"
+    token="2457317478009150992"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="142" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="107885498085634"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_71fe7a820f14c2c8bf2c526019040f5aa940caaf/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_3c269110d14acd7bd8bc6e18802f88f2a5a3e745/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.3_2b93a743875d8132d092d0a4fda92ad4b00382fd/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6642702c90d16c7d0273891ebb9e17599a233c0f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_75bb29261d9fa45d94c150771dba35b54e7a76ea/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_3f4b24a139f4761b7c33a828887b8c07b7073010/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_53865238af22a24194120283deb449552690f756/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad1a4d6bb70f02aa7dbe11a8c3ee8bc20fa38f46/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_949980eb56fac956d0250e2f2717ebd0cbcec2ba/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jjoe64-graphview-4.2.1_e11f7931a3fbd354b11ac8de67245fef50bf3f48/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_db2c48c53f2becbeaa3db7e374fd8381b49b28bd/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_fed5085d479e815e14059bc8f1cb4e6e86197169/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/abstract-jdbc-driver-0.5_0fb71b5f7bda3f5c2095f02f481c8faf2dd5eb21/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_e1044cc81c61d56aa9b47f8ace55741a8f9925eb/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.apache.felix.ipojo.annotations-1.12.1_aa9d6e1313465236195497e7f8c79aac877a29bb/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_8b154039db2f588b84427da6d4e5a68bb69ab1f0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_cf628a52c4990a5b46d83a11a3aca0d0912010ba/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_bfc28ce4306706cec06d0048962419cb2b0d425c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/bryan/AndroidStudioProjects/AccSpark/app/build/intermediates/transforms/dex/debug/folders/1000/10/mysql-connector-java-5.1.34_1_fc72bf2a1d89980fda39d7c3b986696ade36a801/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
